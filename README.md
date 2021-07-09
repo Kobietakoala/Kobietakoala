@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="https://github.com/kobietakoala/kobietakoala/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
+<img src="https://www.codewars.com/users/Kobietakoala/badges/large" alt="code wars" />
+<img src="https://github.com/kobietakoala/kobietakoala/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
