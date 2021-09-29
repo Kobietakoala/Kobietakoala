@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://www.codewars.com/users/Kobietakoala/badges/large" alt="code wars" />
 <img src="https://github.com/kobietakoala/kobietakoala/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
+<figure><embed src="https://wakatime.com/share/@e509ca37-ae27-4536-9cfd-e6cd75bc56e7/90a9a2fa-c829-486e-8c81-97790612c48f.svg"></embed></figure>
